@@ -204,9 +204,9 @@ def scan():
         alert = "Intrusion"
 
         try:
-            sender_email = "grimo.sergiy@gmail.com"
-            receiver_email = "grimo.sergiy@icloud.com"
-            password = "byseqyguujsyfjuu"
+            sender_email = ""
+            receiver_email = ""
+            password = ""
 
             message = MIMEMultipart("alternative")
             message["Subject"] = f"INTRUSION DETECTED at: {current_time}"
