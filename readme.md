@@ -10,22 +10,7 @@ This app can halp you monitor your wifi network.
 3. Check if are connected some devices not trusted
 4. Send you an email with unwanted devices connceted
 
-## Some features
-
-1. Scan one your network
-2. Scan cycle your network
-3. Ceck datas such as Destination email, sender email, pssw of sender email
-4. Change datas
-5. Show list of trustes devices
-6. Add device to trusted list
-7. Remove device from trusted list
-
-## 1 - Scan once
-
-Use this to scan once your network, it return a list of devices connceted and alert if are there some unwant devices.
-Automatically ends
-
-## 2 - Scan cycle
+## 1 - Scan cycle
 
 Use this function to start a cycle of scans that allert you if are there some intrusions
 
