@@ -14,39 +14,18 @@ This app can halp you monitor your wifi network.
 
 Use this function to start a cycle of scans that allert you if are there some intrusions
 
-## 3 - Ceck datas
-
-Use this function to read your personal informations.
-These informations are setted the first time you start the program and are:
-- Destination mail 
-- Sender mail (suggested: Gmail)
-- Password of sender (not personal but device-password)
-
-## 4 - Settings
-
-Use this function to modify your personal informations.
-These informations are:
-- Destination mail 
-- Sender mail (suggested: Gmail)
-- Password of sender (not personal but device-password)
-
-## 5 - List trusted devices
-Use this function to read your trusted devices, usually those always connected to your netwok
-
 ## 6 - Add to List of trusted devices
-Use this function to update your trusted devices with new one.
+Use this function to update your trusted devices with new one. Open and edit known_mac.json file
 
 **_Attention: This add an exception and the program will not send email if this device will connected_**
-
-## 7 - Remove from List of trusted devices
-Use this function to update your trusted devices removing one.
 
 **_Attention: This remove an exception and the program will send email if this device will connected_**
 
 # **How to use**
 
 1. Install all packages from requiremets.txt
-2. Run python project with:
+2. Open code (main.py) to insert mail of sender, pssw, and recipient mail
+3. Run python project with:
         
      **sudo python3 _direcotry/of/program/main.py_**
 
