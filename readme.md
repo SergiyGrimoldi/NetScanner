@@ -18,12 +18,6 @@ Use this function to start a cycle of scans that allert you if are there some in
 Use this function to update your trusted devices with new one. Open and edit known_mac.json file
 
 
-
-
-**_Attention: This add an exception and the program will not send email if this device will connected_**
-
-**_Attention: This remove an exception and the program will send email if this device will connected_**
-
 # **How to use**
 
 1. Install all packages from requiremets.txt
@@ -34,3 +28,12 @@ Use this function to update your trusted devices with new one. Open and edit kno
 
 3. Insert system password
 4. Enjoy
+
+
+
+
+
+
+**_Attention: This add an exception and the program will not send email if this device will connected_**
+
+**_Attention: This remove an exception and the program will send email if this device will connected_**
