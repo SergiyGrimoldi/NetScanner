@@ -17,6 +17,9 @@ Use this function to start a cycle of scans that allert you if are there some in
 ## 6 - Add to List of trusted devices
 Use this function to update your trusted devices with new one. Open and edit known_mac.json file
 
+
+
+
 **_Attention: This add an exception and the program will not send email if this device will connected_**
 
 **_Attention: This remove an exception and the program will send email if this device will connected_**
