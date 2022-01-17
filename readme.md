@@ -1,6 +1,6 @@
 # NetScanner by SergiyGrimldi
 
-This app can halp you monitor your wifi network.
+This app can help you monitor your wifi network.
 
 
 ## How it works
