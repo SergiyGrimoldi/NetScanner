@@ -1,4 +1,4 @@
-# NetScanner# NetScanner by SergiyGrimldi
+# NetScanner by SergiyGrimldi
 
 This app can halp you monitor your wifi network.
 
